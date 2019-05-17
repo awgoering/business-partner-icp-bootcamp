@@ -11,7 +11,7 @@
 | Welcome and Kickoff | Doug Slade |  | |
 | Introduction to IBM Cloud Private | Troy Hernandez | [Introduction to IBM Cloud Private](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/01%20-%20Introduction%20to%20IBM%20Cloud%20Private%20v1.0.1.pdf ) | |
 | Introduction to the lab environment | Addison Goering |  | |
-| _Lab 1: Console Treasure Hunt_ | |[Console Treasure Hunt](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2003%20Console%20Treasure%20Hunt.md) | 
+| _Lab 1: Console Treasure Hunt_ | |[Console Treasure Hunt](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2003%20Console%20Treasure%20Hunt.md) | |
 | Containers and Docker | Self study | 60 mins | [Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/0) | Complete all sections |
 | _Lab 2: Build a Docker image and push to the registry_ |  | [Push Docker images to ICP Private Docker Registry](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2002%20Private%20Docker%20Registry.md) |  |
 | Lunch | | | | |
