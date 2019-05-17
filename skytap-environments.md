@@ -6,24 +6,24 @@
 | Student name | Environment URL |
 | --- | --- |
 | Anderson, Shaun| https://labs.edu.ihost.com/1139507.s1/1537 | 
-| Andrews, Jeff| this is the url | 
-| Goturi, Madhusudhana| this is the url | 
-| Brownson, Daniel| this is the url | 
-| Colvig, Art| this is the url | 
-| Delaney, Mark| this is the url | 
-| Facal, Martin| this is the url | 
-| Fitzgerald, Luis| this is the url | 
-| Garcia, Ramior| this is the url | 
-| Jain, Prafull| this is the url | 
-| Kain, Samuel| this is the url | 
-| Le, Hoang| this is the url | 
-| Mamindla, Satish| this is the url | 
-| Kalisetty, Srinivas| this is the url | 
-| Pina, Humberto| this is the url | 
-| Sharma, Sumit| this is the url | 
-| Kunkanuru, Veeranna| this is the url | 
-| Soni, Anuj| this is the url | 
-| Vacuru, Sorin| this is the url | 
-| Varela, Javier |URL |
+| Andrews, Jeff| https://labs.edu.ihost.com/1139507.s2/89a6 | 
+| Goturi, Madhusudhana| https://labs.edu.ihost.com/1139507.s3/b96b | 
+| Brownson, Daniel| https://labs.edu.ihost.com/1139507.s4/af55 | 
+| Colvig, Art| https://labs.edu.ihost.com/1139507.s5/2da1 | 
+| Delaney, Mark| https://labs.edu.ihost.com/1139507.s6/23cc | 
+| Facal, Martin| https://labs.edu.ihost.com/1139507.s7/512f | 
+| Fitzgerald, Luis| https://labs.edu.ihost.com/1139507.s8/1dac | 
+| Garcia, Ramior| https://labs.edu.ihost.com/1139507.s9/e9bb | 
+| Jain, Prafull| https://labs.edu.ihost.com/1139507.s10/b510 | 
+| Kain, Samuel| https://labs.edu.ihost.com/1139507.s11/6d50 | 
+| Le, Hoang| https://labs.edu.ihost.com/1139507.s12/a7ee | 
+| Mamindla, Satish| https://labs.edu.ihost.com/1139507.s13/0464 | 
+| Kalisetty, Srinivas| https://labs.edu.ihost.com/1139507.s14/f353 | 
+| Pina, Humberto| https://labs.edu.ihost.com/1139507.s15/4bb6 | 
+| Sharma, Sumit| https://labs.edu.ihost.com/1139507.s16/b5ca | 
+| Kunkanuru, Veeranna| https://labs.edu.ihost.com/1139507.s17/2327 | 
+| Soni, Anuj| https://labs.edu.ihost.com/1139507.s18/7111 | 
+| Vacuru, Sorin| https://labs.edu.ihost.com/1139507.s19/1034 | 
+| Varela, Javier | https://labs.edu.ihost.com/1139507.s20/16ed |
 
 
