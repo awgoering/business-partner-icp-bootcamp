@@ -33,10 +33,15 @@
 | Logging and Monitoring  | Brian Zied | [Debugging and Monitoring with IBM Cloud Private](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/13%20-%20ICP%20Logging%20and%20Monitoring.pdf) | |
 | _Lab 6: Log Monitoring_ |  | [Lab: Logging](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2007%20Logging.md) | |
 | _Lab 7: Advanced Log Monitoring_ | | [Lab: Configuring ELK](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2008%20-%20Modified%20Logging.md) | |
+| **Day 4: Management** | | | |
+| Daily Kickoff | Doug Slade |  | |
+| CI/CD | Dave Mulley | Student link not available yet | |
+| Modernize Multicloud | Bill Stoddard | Student link not available yet | |
+| Cloud Automation Manager | Bill Stoddard and Andre Toste | | |
 
-| **Day 2: Infrastructure and Architecture** | | 6 hours | |
 
-| Lunch | | | | |
+
+
 | Backup and Restore | Eric or George | 30 mins | [IBM Cloud Private Backup and Restore Strategy](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/10%20-%20ICP%20Backup%20%26%20Restore%20Strategy%20v1.0.1.pdf) | [IBM Cloud Private Backup and Restore Strategy](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/10%20-%20ICP%20Backup%20%26%20Restore%20Strategy%20v1.0.1.pptx) |
 
 
