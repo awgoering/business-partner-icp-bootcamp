@@ -1,11 +1,11 @@
 # Skytap environment links for students 
 
-## Business partners May 20 - 24, 2019
+## Business partners May 20 - 23, 2019 (Monday thru Thursday ONLY)
 
 
 | Student name | Environment URL |
 | --- | --- |
-| Anderson, Shaun| this is the url | 
+| Anderson, Shaun| https://labs.edu.ihost.com/1139507.s1/1537 | 
 | Andrews, Jeff| this is the url | 
 | Goturi, Madhusudhana| this is the url | 
 | Brownson, Daniel| this is the url | 
