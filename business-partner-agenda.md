@@ -14,7 +14,9 @@
 | _Lab 1: Console Treasure Hunt_ | |[Console Treasure Hunt](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2003%20Console%20Treasure%20Hunt.md) | |
 | Containers and Docker | Self study |[Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/0) | Complete all sections |
 | _Lab 2: Build a Docker image and push to the registry_ |  | [Push Docker images to ICP Private Docker Registry](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2002%20Private%20Docker%20Registry.md) |  |
-| Lunch | | | | |
+
+
+| Lunch | | | | 
 | Kubernetes basics | Eric or George | 60 mins | [Kubernetes basics](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/04%20-%20Kubernetes%20Basics%20v1.0.1.pdf) | [Kubernetes basics](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/04%20-%20Kubernetes%20Basics%20v1.0.1.pptx) |
 | Helm basics | Eric or George | 60 mins | [Helm basics](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/05%20-%20Helm%20Basics%20v1.01.pdf) | [Helm basics](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/05%20-%20Helm%20Basics%20v1.01.pptx) |
 | Creating a Helm chart  | Eric or George | 30 mins | [Creating Helm Charts](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/06%20-%20Creating%20Helm%20Charts%20v1.0.1.pdf) | [Creating Helm Charts](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/06%20-%20Creating%20Helm%20Charts%20v1.0.1.pptx) |
