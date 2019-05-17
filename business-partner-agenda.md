@@ -43,13 +43,9 @@
 | IBM Cloud Cost and Asset Management | Arun Bilijiri |Student link not available yet | |
 | **Day 5: Application Modernization** | | | |
 | Daily Kickoff | Doug Slade |  | |
-| CI/CD | Dave Mulley | Student link not available yet | |
-| Modernize Multicloud | Bill Stoddard | Student link not available yet | |
-| Cloud Automation Manager | Bill Stoddard and Andre Toste |Student link not available yet | |
-| Multicloud Manager | Matt Rodkey| Student link not available yet | |
-| IBM App Cloud Management | Mike Mallo and Tony Spina | Student link not available yet | |
-| IBM Cloud Cost and Asset Management | Arun Bilijiri |Student link not available yet | |
-
-
+| IBM Application Modernization | Self study| [IBM Application Modernization](https://www.ibm.com/cloud/garage/content/course/explore-application-modernization/0)| Complete all sections |
+| _Lab 8: Install Transformation Advisor_ | | [Lab: Install Transformation Advisor](https://github.com/ibm-cloud-architecture/icp-dev-workshop/blob/master/Labs/Lab3-InstallTA.md) | |
+| _Lab 9: Modernize Simple App (no code changes)_ | | [Lab: Modernize Simple App (no code changes)](https://github.com/ibm-cloud-architecture/icp-dev-workshop/blob/master/Labs/Lab4-SimpleAppMod.md) | |
+| _Lab 10: Modernize Moderate App (some code changes)_ | | [Lab: Modernize Moderate App (some code changes)](https://github.com/ibm-cloud-architecture/icp-dev-workshop/blob/master/Labs/Lab5-ModerateAppMod.md) | |
 
 
