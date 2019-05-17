@@ -24,21 +24,25 @@
 | IBM Cloud Private Architecture | Victor Havard |[IBM Cloud Private Architecture](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/07%20-%20ICP%20Architecture%20v1.0.1.pdf) | |
 | IBM Cloud Private Performance and Sizing | Victor Havard |[IBM Cloud Private Performance and Sizing](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/08%20-%20ICP%20Performance%20and%20Sizing.pdf) | |
 | IBM Cloud Private Storage | Victor Havard |[IBM Cloud Private Storage](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/09%20-%20ICP%20Storage%20v1.0.1.pdf) | |
-
+| **Day 3: Operations and Troubleshooting** | |  | |
+| Daily Kickoff | Doug Slade |  | |
+| Introduction to ICP Networking | TBD| [IBM Cloud Private Network](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/11%20-%20ICP%20Network%20v1.0.1.pdf)| |
+| Kubernetes Resiliency | Self study |  No student link not available yet | |
+| Security | TBD |[IBM Cloud Private Security](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/12%20-%20ICP%20Security%20v1.0.1.pdf) | |
+| _Lab 5: ICP LDAP Integration_ |  | [Lab: Configuring IBM Cloud Private to use OpenLDAP ](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2006%20OpenLDAP.md) | |
+| Logging and Monitoring  | Brian Zied | [Debugging and Monitoring with IBM Cloud Private](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/13%20-%20ICP%20Logging%20and%20Monitoring.pdf) | |
+| _Lab 6: Log Monitoring_ |  | [Lab: Logging](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2007%20Logging.md) | |
+| _Lab 7: Advanced Log Monitoring_ | | [Lab: Configuring ELK](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2008%20-%20Modified%20Logging.md) | |
 
 | **Day 2: Infrastructure and Architecture** | | 6 hours | |
 
 | Lunch | | | | |
 | Backup and Restore | Eric or George | 30 mins | [IBM Cloud Private Backup and Restore Strategy](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/10%20-%20ICP%20Backup%20%26%20Restore%20Strategy%20v1.0.1.pdf) | [IBM Cloud Private Backup and Restore Strategy](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/10%20-%20ICP%20Backup%20%26%20Restore%20Strategy%20v1.0.1.pptx) |
-| Introduction to ICP Networking | Eric or George | 1 hour | [IBM Cloud Private Network](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/11%20-%20ICP%20Network%20v1.0.1.pdf)| [IBM Cloud Private Network](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/11%20-%20ICP%20Network%20v1.0.1.pptx)|
-| Kubernetes Resiliency | Eric or George | 1 hour | No student link available |[HA and DR aspects](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/HADR%20aspects.pptx)|
-| **Day 3: Operations and Troubleshooting**| | 6 hours | |
-| Security | Eric or George | 60 mins | [IBM Cloud Private Security](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/12%20-%20ICP%20Security%20v1.0.1.pdf) | [IBM Cloud Private Security](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/12%20-%20ICP%20Security%20v1.0.1.pptx)
-| _Lab 4: ICP LDAP Integration_ | Eric or George | 30 mins | [Lab: Configuring IBM Cloud Private to use OpenLDAP ](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2006%20OpenLDAP.md) | [Lab: Configuring IBM Cloud Private to use OpenLDAP ](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2006%20OpenLDAP.md)|
-| Logging and Monitoring  | Eric or George | 60 mins | [Debugging and Monitoring with IBM Cloud Private](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/13%20-%20ICP%20Logging%20and%20Monitoring.pdf) | [Debugging and Monitoring with IBM Cloud Private (pdf only)](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/13%20-%20ICP%20Logging%20and%20Monitoring.pdf) |
+
+
+
 | Lunch | | | | |
-| _Lab 5: Log Monitoring_ | Eric or George | 60 mins | [Lab: Logging](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2007%20Logging.md) | [Lab: Logging](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2007%20Logging.md) |
-| _Lab 6: Advanced Log Monitoring_ | Eric or George | 30 mins | [Lab: Configuring ELK](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2008%20-%20Modified%20Logging.md) | [Lab: Configuring ELK](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2008%20-%20Modified%20Logging.md) |
+
 | Cloud Automation Manager | Eric or George | 60 mins |  [Cloud Automation Manager](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/21%20-%20Cloud%20Automation%20Manager%201.0.1.pdf) | [Cloud Automation Manager](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/21%20-%20Cloud%20Automation%20Manager.pptx) |
 | Multi Cloud Manager | Eric or George | 60 mins | [Multi Cloud Manager](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/23%20%20Multi%20Cloud%20Manager%20-%20Addendum%20to%20ICP%20Architecture.pdf) | [Multi Cloud Manager (pdf only)](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/23%20%20Multi%20Cloud%20Manager%20-%20Addendum%20to%20ICP%20Architecture.pdf) |
 | **Day 4: DevOps and Development** | | 7.5 hours | |
