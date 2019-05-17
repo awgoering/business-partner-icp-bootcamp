@@ -37,30 +37,19 @@
 | Daily Kickoff | Doug Slade |  | |
 | CI/CD | Dave Mulley | Student link not available yet | |
 | Modernize Multicloud | Bill Stoddard | Student link not available yet | |
-| Cloud Automation Manager | Bill Stoddard and Andre Toste | | |
+| Cloud Automation Manager | Bill Stoddard and Andre Toste |Student link not available yet | |
+| Multicloud Manager | Matt Rodkey| Student link not available yet | |
+| IBM App Cloud Management | Mike Mallo and Tony Spina | Student link not available yet | |
+| IBM Cloud Cost and Asset Management | Arun Bilijiri |Student link not available yet | |
+| **Day 5: Application Modernization** | | | |
+| Daily Kickoff | Doug Slade |  | |
+| CI/CD | Dave Mulley | Student link not available yet | |
+| Modernize Multicloud | Bill Stoddard | Student link not available yet | |
+| Cloud Automation Manager | Bill Stoddard and Andre Toste |Student link not available yet | |
+| Multicloud Manager | Matt Rodkey| Student link not available yet | |
+| IBM App Cloud Management | Mike Mallo and Tony Spina | Student link not available yet | |
+| IBM Cloud Cost and Asset Management | Arun Bilijiri |Student link not available yet | |
 
-
-
-
-| Backup and Restore | Eric or George | 30 mins | [IBM Cloud Private Backup and Restore Strategy](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/10%20-%20ICP%20Backup%20%26%20Restore%20Strategy%20v1.0.1.pdf) | [IBM Cloud Private Backup and Restore Strategy](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/10%20-%20ICP%20Backup%20%26%20Restore%20Strategy%20v1.0.1.pptx) |
-
-
-
-| Lunch | | | | |
-
-| Cloud Automation Manager | Eric or George | 60 mins |  [Cloud Automation Manager](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/21%20-%20Cloud%20Automation%20Manager%201.0.1.pdf) | [Cloud Automation Manager](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/21%20-%20Cloud%20Automation%20Manager.pptx) |
-| Multi Cloud Manager | Eric or George | 60 mins | [Multi Cloud Manager](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/23%20%20Multi%20Cloud%20Manager%20-%20Addendum%20to%20ICP%20Architecture.pdf) | [Multi Cloud Manager (pdf only)](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/23%20%20Multi%20Cloud%20Manager%20-%20Addendum%20to%20ICP%20Architecture.pdf) |
-| **Day 4: DevOps and Development** | | 7.5 hours | |
-| Continous integration/Continuous deployment (CI/CD) | Eric or George | 30 mins | No student link available| [DevOps Concepts](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Infrastructure_Architecture/DevOps/DevOps_Concepts.pptx) |
-|  _Lab 7: Set up a CI/CD pipeline on IBM Cloud Private using Jenkins to deploy a simple web application_ | Eric or George | 60 mins | [Lab: Setting up a Jenkins environment in IBM Cloud Private](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Compute_Model/Containers/ICP-entdev/3.2-Jenkins.pdf) | [Lab: Setting up a Jenkins environment in IBM Cloud Private](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Compute_Model/Containers/ICP-entdev/3.2-Jenkins.pdf) |
-| IBM Application Modernization | Eric or George | 60 mins |  [IBM Application Modernization](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/20%20-%20App%20Modernization%20v1.0.1.pdf)|[IBM Application Modernization (pdf only)](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/20%20-%20App%20Modernization%20v1.0.1.pdf) |
-| Introduction to Microservices | Eric or George | 90 mins | No student link available | [Microservices Architecture](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Infrastructure_Architecture/DevOps/DevOps_Concepts.pptx) OR https://ibm.ent.box.com/file/433545017585 |
-| Lunch | | | | |
-| _Lab 8: Refactor monolith into microservices_ | Eric or George | 60 mins | [Lab: Designing microservices](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Application_Architecture/Microservices/Design/Microservices-Design.pdf) | [Lab: Designing microservices](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Application_Architecture/Microservices/Design/Microservices-Design.pdf) |
-| _Lab 9: Build and deploy a polyglot microservices application to Kubernetes_ | Eric or George | 60 mins | [Lab:](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx) |
-| Introduction to Microservice Mesh (Istio) | Eric or George | 30 mins | [IBM Cloud Private Istio - Microservices Mesh)](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/22%20-%20ICP%20Istio%20Microservice%20Mesh%20v1.0.1.pdf)  |[IBM Cloud Private Istio - Microservices Mesh (pdf only)](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/22%20-%20ICP%20Istio%20Microservice%20Mesh%20v1.0.1.pdf) |
-| _Lab 10: Istio_ | Eric or George | 60 mins | [Lab: Working with Istio](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Application_Architecture/Microservices/istio-1.0-lab.pdf) | [Lab: Working with Istio](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Application_Architecture/Microservices/istio-1.0-lab.pdf) |
-| Course conclusion | Eric or George | 15 minutes | |  |
 
 
 
