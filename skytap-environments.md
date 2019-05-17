@@ -1,6 +1,6 @@
 # Skytap environment links for students 
 
-## Business partners May 20 - 23, 2019 "No Travel Required" ICP Bootcamp
+## Business partners May 20 - 23, 2019   "No Travel Required" ICP Bootcamp
 
 
 | Student name | Environment URL (Mon - Thurs) | Environment URL (Fri - ) | 
