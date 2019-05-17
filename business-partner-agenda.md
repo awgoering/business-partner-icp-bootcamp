@@ -6,7 +6,7 @@
 
 
 | Module | Presented by: | Link | Notes |
-| --- | --- | --- | 
+| --- | --- | --- | --- | 
 | **Day 1: Fundamentals and Foundation Technologies** | | 7 hours | |
 | Welcome and Kickoff | Doug Slade |  | |
 | Introduction to IBM Cloud Private | Troy Hernandez | [Introduction to IBM Cloud Private](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/01%20-%20Introduction%20to%20IBM%20Cloud%20Private%20v1.0.1.pdf ) | |
