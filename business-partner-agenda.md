@@ -20,14 +20,14 @@
 | Kubernetes basics | Brian Zied | [Kubernetes basics](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/04%20-%20Kubernetes%20Basics%20v1.0.1.pdf) | |
 | Helm basics | Brian Zied | [Helm basics](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/05%20-%20Helm%20Basics%20v1.01.pdf) | |
 | Creating a Helm chart  | Brian Zied | [Creating Helm Charts](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/06%20-%20Creating%20Helm%20Charts%20v1.0.1.pdf) | |
-| _Lab 3: Deploy a Helm chart - NodeJS_ |  |  [Deploy a simple Helm chart: NodeJS Sample](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2005%20Deploy%20NodeJS%20Helm.md) |  |
-
+| _Lab 4: Deploy a Helm chart - NodeJS_ |  |  [Deploy a simple Helm chart: NodeJS Sample](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2005%20Deploy%20NodeJS%20Helm.md) |  |
+| IBM Cloud Private Architecture | Victor Havard |[IBM Cloud Private Architecture](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/07%20-%20ICP%20Architecture%20v1.0.1.pdf) | |
+| IBM Cloud Private Performance and Sizing | Victor Havard |[IBM Cloud Private Performance and Sizing](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/08%20-%20ICP%20Performance%20and%20Sizing.pdf) | |
+| IBM Cloud Private Storage | Victor Havard |[IBM Cloud Private Storage](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/09%20-%20ICP%20Storage%20v1.0.1.pdf) | |
 
 
 | **Day 2: Infrastructure and Architecture** | | 6 hours | |
-| IBM Cloud Private Architecture | Eric or George | 1 hour | [IBM Cloud Private Architecture](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/07%20-%20ICP%20Architecture%20v1.0.1.pdf) |  [IBM Cloud Private Architecture](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/07%20-%20ICP%20Architecture%20v1.0.1.pptx) |
-| IBM Cloud Private Performance and Sizing | Eric or George | 30 mins | [IBM Cloud Private Performance and Sizing](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/08%20-%20ICP%20Performance%20and%20Sizing.pdf) | [IBM Cloud Private Performance and Sizing](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/08%20-%20ICP%20Performance%20and%20Sizing.pptx) |
-| IBM Cloud Private Storage | Eric or George | 2 hours | [IBM Cloud Private Storage](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/09%20-%20ICP%20Storage%20v1.0.1.pdf) | [IBM Cloud Private Storage](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/09%20-%20ICP%20Storage%20v1.0.1.pptx) |
+
 | Lunch | | | | |
 | Backup and Restore | Eric or George | 30 mins | [IBM Cloud Private Backup and Restore Strategy](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/10%20-%20ICP%20Backup%20%26%20Restore%20Strategy%20v1.0.1.pdf) | [IBM Cloud Private Backup and Restore Strategy](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/10%20-%20ICP%20Backup%20%26%20Restore%20Strategy%20v1.0.1.pptx) |
 | Introduction to ICP Networking | Eric or George | 1 hour | [IBM Cloud Private Network](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/11%20-%20ICP%20Network%20v1.0.1.pdf)| [IBM Cloud Private Network](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/11%20-%20ICP%20Network%20v1.0.1.pptx)|
