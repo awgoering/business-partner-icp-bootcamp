@@ -7,7 +7,7 @@
 
 | Module | Presented by: | Link | Notes |
 | --- | --- | --- | --- | 
-| **Day 1: Fundamentals and Foundation Technologies** | | 7 hours | |
+| **Day 1: Fundamentals and Foundation Technologies** | |  | |
 | Welcome and Kickoff | Doug Slade |  | |
 | Introduction to IBM Cloud Private | Troy Hernandez | [Introduction to IBM Cloud Private](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/01%20-%20Introduction%20to%20IBM%20Cloud%20Private%20v1.0.1.pdf ) | |
 | Introduction to the lab environment | Addison Goering |  | |
@@ -15,13 +15,15 @@
 | Containers and Docker | Self study |[Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/0) | Complete all sections |
 | _Lab 2: Build a Docker image and push to the registry_ |  | [Push Docker images to ICP Private Docker Registry](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2002%20Private%20Docker%20Registry.md) |  |
 | _Lab 3: Use CLI and Tools_ |  | [Use CLI and Tools](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2004%20Use%20CLI%20Tools.md) |  |
+| **Day 2: Infrastructure and Architecture** | |  | |
+| Daily Kickoff | Doug Slade |  | |
+| Kubernetes basics | Brian Zied | [Kubernetes basics](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/04%20-%20Kubernetes%20Basics%20v1.0.1.pdf) | |
+| Helm basics | Brian Zied | [Helm basics](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/05%20-%20Helm%20Basics%20v1.01.pdf) | |
+| Creating a Helm chart  | Brian Zied | [Creating Helm Charts](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/06%20-%20Creating%20Helm%20Charts%20v1.0.1.pdf) | |
+| _Lab 3: Deploy a Helm chart - NodeJS_ |  |  [Deploy a simple Helm chart: NodeJS Sample](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2005%20Deploy%20NodeJS%20Helm.md) |  |
 
 
-| Lunch | | | | 
-| Kubernetes basics | Eric or George | 60 mins | [Kubernetes basics](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/04%20-%20Kubernetes%20Basics%20v1.0.1.pdf) | [Kubernetes basics](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/04%20-%20Kubernetes%20Basics%20v1.0.1.pptx) |
-| Helm basics | Eric or George | 60 mins | [Helm basics](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/05%20-%20Helm%20Basics%20v1.01.pdf) | [Helm basics](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/05%20-%20Helm%20Basics%20v1.01.pptx) |
-| Creating a Helm chart  | Eric or George | 30 mins | [Creating Helm Charts](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/06%20-%20Creating%20Helm%20Charts%20v1.0.1.pdf) | [Creating Helm Charts](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/06%20-%20Creating%20Helm%20Charts%20v1.0.1.pptx) |
-| _Lab 3: Deploy a Helm chart - NodeJS_ | Eric or George | 60 mins | [Deploy a simple Helm chart: NodeJS Sample](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2005%20Deploy%20NodeJS%20Helm.md) |  [Deploy a simple Helm chart: NodeJS Sample](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2005%20Deploy%20NodeJS%20Helm.md) |
+
 | **Day 2: Infrastructure and Architecture** | | 6 hours | |
 | IBM Cloud Private Architecture | Eric or George | 1 hour | [IBM Cloud Private Architecture](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/07%20-%20ICP%20Architecture%20v1.0.1.pdf) |  [IBM Cloud Private Architecture](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/07%20-%20ICP%20Architecture%20v1.0.1.pptx) |
 | IBM Cloud Private Performance and Sizing | Eric or George | 30 mins | [IBM Cloud Private Performance and Sizing](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/08%20-%20ICP%20Performance%20and%20Sizing.pdf) | [IBM Cloud Private Performance and Sizing](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/08%20-%20ICP%20Performance%20and%20Sizing.pptx) |
