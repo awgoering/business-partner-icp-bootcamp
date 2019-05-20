@@ -31,8 +31,8 @@
 | Security | TBD |[IBM Cloud Private Security](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/12%20-%20ICP%20Security%20v1.0.1.pdf) | |
 | _Lab 5: ICP LDAP Integration_ |  | [Lab: Configuring IBM Cloud Private to use OpenLDAP ](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2006%20OpenLDAP.md) | |
 | Logging and Monitoring  | Brian Zied | [Debugging and Monitoring with IBM Cloud Private](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/13%20-%20ICP%20Logging%20and%20Monitoring.pdf) | |
-| _Lab 6: Log Monitoring_ |  | [Lab: Logging](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2007%20Logging.md) | |
-| _Lab 7: Advanced Log Monitoring_ | | [Lab: Configuring ELK](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2008%20-%20Modified%20Logging.md) | |
+| _Lab 6: Log Monitoring_ |  | [Lab: Logging](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2007%20Logging.md) | |
+| _Lab 7: Advanced Log Monitoring_ | | [Lab: Configuring ELK](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2008%20-%20Modified%20Logging.md) | |
 | **Day 4: Management** | | | |
 | Daily Kickoff | Doug Slade |  | |
 | CI/CD | Dave Mulley | Student link not available yet | |
