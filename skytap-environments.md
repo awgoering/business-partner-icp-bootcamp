@@ -5,7 +5,7 @@
 ## Business partners May 20 - 23, 2019
 
 
-| Student name | Environment URL (Mon - Thurs) | Environment URL (Fri - Wednesday (May 29) | 
+| Student name | Environment URL (Mon - Thurs) | Environment URL (Fri - Wed (May 29) | 
 | --- | --- | --- |
 | Anderson, Shaun| https://labs.edu.ihost.com/1139507.s1/1537 | https://labs.edu.ihost.com/1140116.s1/809c |
 | Andrews, Jeff| https://labs.edu.ihost.com/1139507.s2/89a6 | https://labs.edu.ihost.com/1140116.s2/8280 | 
