@@ -27,7 +27,7 @@
 | **Day 3: Operations and Troubleshooting** | |  | |
 | Daily Kickoff | Doug Slade |  | |
 | Introduction to ICP Networking | TBD| [IBM Cloud Private Network](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/11%20-%20ICP%20Network%20v1.0.1.pdf)| |
-| Kubernetes Resiliency | Self study |  Student link not available yet | |
+| Kubernetes Resiliency | Self study | [Playing Ping Pong with Kubernetes V4:Study in Kubernetes resiliency](https://youtu.be/UABYoNQly6I)| |
 | Security | TBD |[IBM Cloud Private Security](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/12%20-%20ICP%20Security%20v1.0.1.pdf) | |
 | _Lab 5: ICP LDAP Integration_ |  | [Lab: Configuring IBM Cloud Private to use OpenLDAP ](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2006%20OpenLDAP.md) | |
 | Logging and Monitoring  | Brian Zied | [Debugging and Monitoring with IBM Cloud Private](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/13%20-%20ICP%20Logging%20and%20Monitoring.pdf) | |
