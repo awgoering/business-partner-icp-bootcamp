@@ -29,7 +29,7 @@
 | Introduction to ICP Networking | Tom Campbell | [IBM Cloud Private Network](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/11%20-%20ICP%20Network%20v1.0.1.pdf)| |
 | Security | Tom Campbell |[IBM Cloud Private Security](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/12%20-%20ICP%20Security%20v1.0.1.pdf) | |
 | Logging and Monitoring  | Brian Zied | [Debugging and Monitoring with IBM Cloud Private](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/13%20-%20ICP%20Logging%20and%20Monitoring.pdf) | |
-| Kubernetes Resiliency | Self study | [Playing Ping Pong with Kubernetes V4:Study in Kubernetes resiliency](https://youtu.be/UABYoNQly6I)| |
+| Kubernetes Resiliency | Self study | [Playing Ping Pong with Kubernetes V4:Study in Kubernetes resiliency](https://ibm.ent.box.com/s/k342l3bajqe26610rvchnkp46f5lgr6h)| |
 | _Lab 5: ICP LDAP Integration_ |  | [Lab: Configuring IBM Cloud Private to use OpenLDAP ](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2006%20OpenLDAP.md) | |
 | _Lab 6: Log Monitoring_ |  | [Lab: Logging](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2007%20Logging.md) | |
 | _Lab 7: Advanced Log Monitoring_ | | [Lab: Configuring ELK](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2008%20-%20Modified%20Logging.md) | |
