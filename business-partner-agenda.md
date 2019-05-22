@@ -36,7 +36,7 @@
 | **Day 4: Management** | | | |
 | Daily Kickoff | Doug Slade |  | |
 | CI/CD | Dave Mulley | Student link not available yet | |
-| Modernize Multicloud | Bill Stoddard | Student link not available yet | |
+| Modernize Multicloud Management| Bill Stoddard | Student link not available yet | |
 | Cloud Automation Manager | Bill Stoddard and Andre Toste |Student link not available yet | |
 | Multicloud Manager | Matt Rodkey| Student link not available yet | |
 | IBM App Cloud Management | Mike Mallo and Tony Spina | Student link not available yet | |
