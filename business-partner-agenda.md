@@ -38,7 +38,7 @@
 | CI/CD | Dave Mulley | [DevOps and CI/CD ](https://github.com/awgoering/business-partner-icp-bootcamp/blob/master/DevOps_ICP.pdf) | |
 | Modernize Multicloud Management| Bill Stoddard | [The IBM multicloud management technology stack](https://ibm.ent.box.com/s/8k5wm2msikmsm4ycb9t132xwuei121sk/file/462812285483) | |
 | Cloud Automation Manager | Bill Stoddard and Andre Toste |Student link not available yet | |
-| Multicloud Manager | Matt Rodkey| Student link not available yet | |
+| Multicloud Manager | Matt Rodkey| [IBM Intelligent Management](https://ibm.ent.box.com/s/8k5wm2msikmsm4ycb9t132xwuei121sk/file/462836336706) | |
 | IBM App Cloud Management | Mike Mallo and Tony Spina | [Extending Application Centric Management in New Cloud Deployments](https://ibm.ent.box.com/s/8k5wm2msikmsm4ycb9t132xwuei121sk/file/462828465316) | |
 | IBM Cloud Cost and Asset Management | Arun Bilijiri |Student link not available yet | |
 | **Day 5: Application Modernization** | | | |
