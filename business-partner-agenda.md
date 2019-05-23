@@ -35,7 +35,7 @@
 | _Lab 7: Advanced Log Monitoring_ | | [Lab: Configuring ELK](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2008%20-%20Modified%20Logging.md) | |
 | **Day 4: Management** | | | |
 | Daily Kickoff | Doug Slade |  | |
-| CI/CD | Dave Mulley | Student link not available yet | |
+| CI/CD | Dave Mulley | [DevOps and CI/CD ](https://github.com/awgoering/business-partner-icp-bootcamp/blob/master/DevOps_ICP.pdf) | |
 | Modernize Multicloud Management| Bill Stoddard | Student link not available yet | |
 | Cloud Automation Manager | Bill Stoddard and Andre Toste |Student link not available yet | |
 | Multicloud Manager | Matt Rodkey| Student link not available yet | |
